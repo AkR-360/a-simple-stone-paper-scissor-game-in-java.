@@ -1,4 +1,4 @@
-# a-simple-stone-paer-scissor-game-in-java.
+# a-simple-stone-paper-scissor-game-in-java.
 package com.company;
 import java.util.Random;
 import java.util.Scanner;
